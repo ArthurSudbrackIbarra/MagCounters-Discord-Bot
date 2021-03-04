@@ -1,0 +1,3 @@
+Use this command to get a random dog picture... nothing really else to say.
+
+**Example:** #prefix#dog

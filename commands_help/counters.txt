@@ -1,0 +1,19 @@
+Use this command to obtain the best 30 counters against a desired pokemon.
+
+**Example:** #prefix#counters pikachu.
+
+You can also specify whether you want offensive or defensive counters. The default option is offensive, however, in case you want defensive counters, include -d after the pokemon name.
+
+**Example:** #prefix#counters bulbasaur -d.
+
+If you don't want the results to include certain pokemons, you can use the filter system:
+
+**-n:** Allows only normal pokemons, no mythicals, no sub-legends, no legends.
+
+**-m:** Allows pokemons from the -n category + mythical pokemons.
+
+**-s:** Allows pokemons from -n and -m categories + sub-legendaries, such as ultrabeasts.
+
+**Example:** #prefix#counters charmander -d -m.
+
+Not using the filter system will make results include all the categories + legendary pokemons.

@@ -1,0 +1,9 @@
+Use this command to get the definion of a word.
+
+**Example:** #prefix#define watermelon.
+
+The default language for the definition is english, however, you can change it by passing a language code parameter.
+
+**Example:** #prefix#define pastèque fr. (French definition).
+
+See all the possible language codes here: https://dictionaryapi.dev/.

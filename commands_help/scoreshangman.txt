@@ -1,0 +1,5 @@
+Use this command to get the hangman games leaderboard.
+
+**Example:** #prefix#scoreshangman
+
+Everytime you guess a word right on a hangman game, you get + 15 points. Note that custom hangman games won't give you points.

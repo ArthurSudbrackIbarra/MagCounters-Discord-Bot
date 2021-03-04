@@ -1,0 +1,18 @@
+fms stands for "finish my sentence". Use this command to create a game where players build a sentence together.
+
+**Example:**
+
+**#prefix#fmsstart**
+Hello,
+we
+are
+creating
+a
+sentence!
+**#prefix#fmsend**
+
+Every message that is between fmsstart and fmsend will be gathered to form a new sentence. So for the example above you are expected to receive:
+
+Hello, we are creating a sentence! - | Authors |
+
+Every person that helped building the sentence will have its name featured in the authors part.

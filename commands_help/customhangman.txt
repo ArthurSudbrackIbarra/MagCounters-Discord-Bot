@@ -1,0 +1,5 @@
+Use this command to create a personalized hangman game with any word you want.
+
+**Example:** #prefix#customhangman.
+
+Note that after you use this command you will receive a private message from MagCounters bot asking you for a word, so others players can't see it. Follow the instructions that will be given.

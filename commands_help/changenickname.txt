@@ -1,0 +1,3 @@
+Use this command to change your nickname on hangman games leaderboard.
+
+**Example:** #prefix#changenickname CupcakeMaster.

@@ -1,0 +1,3 @@
+Use this command to get the capital of a desired country.
+
+**Example:** #prefix#capital japan.

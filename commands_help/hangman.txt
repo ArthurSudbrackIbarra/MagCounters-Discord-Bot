@@ -1,0 +1,8 @@
+Use this command to start a new hangman capitals game on a specific channel.
+
+**Example:** #prefix#hangman.
+
+You can guess letters, which will cost you lives if you guess wrong. In case you are afraid of losing lives, you can try to guess the whole word by typing it on the chat.
+
+**Example:** a
+**Example:** athens
